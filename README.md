@@ -8,4 +8,4 @@ Controls:
 Left/Right/Up arrows;
 
 Rules:
-Tough same color block will increase the score.
+Touch same color blocks to increase the score.
